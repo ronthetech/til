@@ -4,7 +4,7 @@
 
 A collection/compilation of compact guides on the things I pick up throughout my day/week using various languages, platforms, and technologies.  Really just a place to jot down some of the cool new tricks I’ve learned.
 
-To read more of my writing about programming and technology, [check out my blog](https://ronjeanfrancois.com/blog)
+To read more of my writing about programming and technology, [check out my blog](https://ronjeanfrancois.com/blog).
 
 <!-- banner/hero goes here -->
 
