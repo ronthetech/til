@@ -112,12 +112,12 @@ To read more of my writing about programming and technology, [check out my blog]
 I took the idea from
 [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
 
-<!-- ## License
+## License
 
 &copy; 2018-2022 Ron Jean-Francois
 
 This repository is licensed under the MIT license. See `LICENSE` for
-details. -->
+details.
 
 <!-- ## table
 
