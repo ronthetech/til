@@ -1,0 +1,11 @@
+**/.git
+**/node_modules
+
+*.env
+
+.gitignore
+
+dist
+
+*.md
+*.mdx
