@@ -14,4 +14,4 @@ Clone a repo to your local machine and rename the folder.
 $ git clone <url> <new_name>
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-clone)
