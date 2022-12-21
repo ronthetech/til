@@ -41,6 +41,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](git/#.md)
 * [How to Add a Remote](git/add-a-remote.md)
+* [How to Checkout Previous Branch](git/checkout-previous-branch.md)
 * [How to Clone a Repository](git/clone-a-repo.md)
 * [How to List Git Commands](git/list-git-commands.md)
 * [How to Remove a Remote](git/remove-a-remote.md)
