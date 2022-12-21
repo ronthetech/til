@@ -1,4 +1,4 @@
-# Add a Remote
+# How to Add a Remote
 
 ---
 
