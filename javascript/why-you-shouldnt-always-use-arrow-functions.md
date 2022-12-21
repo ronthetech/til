@@ -9,7 +9,7 @@ var bird = {
   species: "dove",
   color:"white",
   identify: function(){
-    return `${color} ${species}`
+    return `${this.color} ${this.species}`
   }
 }
 
@@ -23,10 +23,10 @@ var bird = {
   species: "dove",
   color:"white",
     identify: function(){
-    return `${color} ${species}`
+    return `${this.color} ${this.species}`
   },
   getIdentity: () => {
-    return `${color} ${species}`
+    return `${this.color} ${this.species}`
   }
 }
 
@@ -34,4 +34,5 @@ console.log(bird.identify()) // white dove
 console.log(bird.getIdentity()) // undefined undefined
 ```
 
+[example](./why-you-shouldnt-always-use-arrow-functions.js)
 [link]()
