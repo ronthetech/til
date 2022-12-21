@@ -76,6 +76,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### PostgreSQL
 
 * [](postgresql/#.md)
+* [How Many Records Are In Each Category](postgresql/how-many-records-in-each-category.md)
 
 ### Python
 
