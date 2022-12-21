@@ -1,4 +1,4 @@
-# List a Bunch of Git Commands
+# How to List a Bunch of Git Commands
 
 ---
 
