@@ -8,4 +8,4 @@ Add a remote to a repository.
 $ git remote add <url>
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emaddem)
