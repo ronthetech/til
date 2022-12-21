@@ -16,4 +16,4 @@ origin
 <new_name> 
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emrenameem)
