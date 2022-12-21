@@ -1,4 +1,4 @@
-# Remove a Remote
+# How to Remove a Remote
 
 ---
 
