@@ -41,6 +41,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](git/#.md)
 * [How to Add a Remote](git/add-a-remote.md)
+* [How to Clone a Repository](git/clone-a-repo.md)
 
 ### Go
 
