@@ -8,4 +8,4 @@ Use the `-a` flag with `git-help` to list a bunch of git commands.
 $ git help -a
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-help#Documentation/git-help.txt--a)
