@@ -1,4 +1,4 @@
-# Clone a Repo
+# How to Clone a Repo
 
 ---
 
