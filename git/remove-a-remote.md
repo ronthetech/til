@@ -17,4 +17,4 @@ $ git remote
 origin
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emremoveem)
