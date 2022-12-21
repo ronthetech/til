@@ -40,6 +40,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### Git
 
 * [](git/#.md)
+* [How to Add a Remote](git/add-a-remote.md)
 
 ### Go
 
@@ -76,7 +77,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### PostgreSQL
 
 * [](postgresql/#.md)
-* [How Many Records Are In Each Category](postgresql/how-many-records-in-each-category.md)
+* [Count How Many Records Are In Each Category](postgresql/count-how-many-records-in-each-category.md)
 
 ### Python
 
