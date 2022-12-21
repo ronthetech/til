@@ -5,13 +5,13 @@
 Like many other languages, PostgreSQL supports the `!=` comparison operator.
 
 ```sql
-> select datatype != datatype;
+> select category from animals where datatype != datatype;
 ```
 
 PostgreSQL also supports the `<>` comparison operator, and actually converts `!=` into `<>` during parsing.
 
 ```sql
-> select datatype <> datatype;
+> select category from animals where datatype <> datatype;
 ```
 
-[link]()
+[link](https://www.postgresql.org/docs/15/functions-comparison.html)
