@@ -1,4 +1,4 @@
-# Rename a Remote
+# How to Rename a Remote
 
 ---
 
