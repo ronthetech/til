@@ -1,4 +1,4 @@
-# Checkout the Previous Branch
+# How to Checkout the Previous Branch
 
 ---
 
