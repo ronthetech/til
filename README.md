@@ -105,6 +105,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### TypeScript
 
 * [](typescript/#.md)
+* [How to Type a Function](typescript/how-to-type-a-function.md)
 
 ### VSCode
 
