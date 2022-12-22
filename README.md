@@ -119,8 +119,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ## About
 
-I took the idea from
-[thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
+I took the idea from [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## License
 
