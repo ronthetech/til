@@ -16,4 +16,4 @@ main
 <new_name> 
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-branch#_description)
