@@ -35,7 +35,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### CSS
 
-* [](go/#.md)
+* [](css/#.md)
 
 ### Git
 
@@ -105,7 +105,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### TypeScript
 
 * [](typescript/#.md)
-* [How to Type a Function](typescript/how-to-type-a-function.md)
+* [How to Type a Function in an Interface](typescript/how-to-type-a-function-in-an-interface.md)
 
 ### VSCode
 
