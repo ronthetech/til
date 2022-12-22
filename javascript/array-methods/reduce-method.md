@@ -14,3 +14,4 @@ console.log(total)
 ```
 
 [example](./reduce-method-example.js)
+[link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
