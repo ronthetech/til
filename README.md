@@ -105,6 +105,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### TypeScript
 
 * [](typescript/#.md)
+* [How to Alias a Type](typescript/how-to-alias-a-type.md)
 * [How to Extend an Interface](typescript/how-to-extend-an-interface.md)
 * [How to Type a Function in an Interface](typescript/how-to-type-a-function-in-an-interface.md)
 
