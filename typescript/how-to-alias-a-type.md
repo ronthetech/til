@@ -25,4 +25,4 @@ type AlphaNumeric = string | number;
 let id: AlphaNumeric = 32;
 ```
 
-[link]()
+[link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
