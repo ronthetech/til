@@ -1,4 +1,4 @@
-# How to Type a Function
+# How to Type a Function in an Interface
 
 ---
 
@@ -18,5 +18,5 @@ let bird: Bird = {
 }
 ```
 
-[example](./how-to-type-a-function.ts)
+[example](./how-to-type-a-function-in-an-interface.ts)
 [link]()
