@@ -56,6 +56,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### JavaScript
 
 * [](javascript/#.md)
+* [How to Use the Map Method](javascript/map-method.md)
 * [Why You Shouldn't Always Use Arrow Functions](javascript/why-you-shouldnt-always-use-arrow-functions.md)
 
 ### Linux
