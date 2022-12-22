@@ -34,5 +34,5 @@ console.log(bird.identify()) // white dove
 console.log(bird.getIdentity()) // undefined undefined
 ```
 
-[example](./why-you-shouldnt-always-use-arrow-functions.js)
+[example](./why-you-shouldnt-always-use-arrow-functions-example.js)
 [link]()
