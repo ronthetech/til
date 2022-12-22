@@ -10,4 +10,4 @@ Shorthand/Shortcut for: `git checkout @{-1}`
 $ git checkout -
 ```
 
-[link]()
+[link](https://git-scm.com/docs/git-checkout#Documentation/git-checkout.txt-ltbranchgt)
