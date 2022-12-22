@@ -19,4 +19,4 @@ let bird: Bird = {
 ```
 
 [example](./how-to-type-a-function-in-an-interface.ts)
-[link]()
+[link](https://www.typescriptlang.org/docs/handbook/2/functions.html#declaring-this-in-a-function)
