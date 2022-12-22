@@ -58,6 +58,7 @@ To read more of my writing about programming and technology, [check out my blog]
 * [](javascript/#.md)
 * [How to Use the Filter Method](javascript/array-methods/filter-method.md)
 * [How to Use the Map Method](javascript/array-methods/map-method.md)
+* [How to Use the Reduce Method](javascript/array-methods/reduce-method.md)
 * [Why You Shouldn't Always Use Arrow Functions](javascript/why-you-shouldnt-always-use-arrow-functions.md)
 
 ### Linux
