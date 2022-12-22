@@ -44,6 +44,7 @@ To read more of my writing about programming and technology, [check out my blog]
 * [How to Checkout Previous Branch](git/checkout-previous-branch.md)
 * [How to Clone a Repository](git/clone-a-repo.md)
 * [How to List Git Commands](git/list-git-commands.md)
+* [How to Push to a Repository](git/how-to-push-to-a-repo.md)
 * [How to Remove a Remote](git/remove-a-remote.md)
 * [How to Rename a Remote](git/rename-a-remote.md)
 
