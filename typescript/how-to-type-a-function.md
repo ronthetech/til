@@ -18,4 +18,5 @@ let bird: Bird = {
 }
 ```
 
+[example](./how-to-type-a-function.ts)
 [link]()
