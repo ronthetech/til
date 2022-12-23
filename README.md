@@ -108,6 +108,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](react/#.md)
 * [How to use React Hook useContext](react/hooks/use-context.md)
+* [How to use React Hook useState With an Updater Function](react/hooks/use-state-with-updater-function.md)
 
 ### Shell
 
