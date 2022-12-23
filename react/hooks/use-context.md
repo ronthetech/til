@@ -38,3 +38,5 @@ function Page() {
 ```
 
 [example](./examples/use-context.js)
+[link](https://reactjs.org/docs/hooks-reference.html#usecontext)
+[link](https://beta.reactjs.org/apis/react/useContext)
