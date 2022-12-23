@@ -36,3 +36,5 @@ function Page() {
   )
 }
 ```
+
+[example](./examples/use-context.js)
