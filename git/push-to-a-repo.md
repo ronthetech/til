@@ -9,3 +9,5 @@ $ git push <repository> <src>
 $ git push origin main
 $ git push -u origin main
 ```
+
+[link](https://git-scm.com/docs/git-push)
