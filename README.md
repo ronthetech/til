@@ -97,6 +97,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](python/#.md)
 * [How to Use the String Format Method](python/string-format-method.md)
+* [How to Use Formatted String Literals](python/formatted-string-literal.md)
 
 ### React
 
