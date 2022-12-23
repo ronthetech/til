@@ -47,3 +47,5 @@ export default function Page() {
 	)
 }
 ```
+
+[example](./examples/use-state-with-updater-function)
