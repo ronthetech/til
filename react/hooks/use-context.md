@@ -18,7 +18,7 @@ const YourContext = createContext(context)
 
 export default function App() {
   return (
-    {/* provides the value for the context*/}
+    /* provides the value for the context*/
     <YourContext.Provider value={context.swim}> 
       <Page />
     </YourContext.Provider>
