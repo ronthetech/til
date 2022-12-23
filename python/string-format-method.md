@@ -11,3 +11,5 @@ name = 'Ron'
 print('Bye {}! Take care!'.format(name))  
 #  Bye Ron! Take care!
 ```
+
+[link](https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method)
