@@ -12,6 +12,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### Topics
 
+* [Bash](#bash)
 * [CSS](#css)
 * [Git](#git)
 * [Go](#go)
@@ -32,6 +33,10 @@ To read more of my writing about programming and technology, [check out my blog]
 * [Windows](#windows)
 
 ---
+
+### Bash
+
+* [](bash/#.md)
 
 ### CSS
 
