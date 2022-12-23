@@ -49,3 +49,6 @@ export default function Page() {
 ```
 
 [example](./examples/use-state-with-updater-function)
+[link](https://reactjs.org/docs/hooks-state.html)
+[link](https://reactjs.org/docs/hooks-reference.html#usestate)
+[link](https://beta.reactjs.org/apis/react/useState)
