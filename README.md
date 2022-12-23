@@ -96,6 +96,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### Python
 
 * [](python/#.md)
+* [How to Use the String Format Method](python/string-format-method.md)
 
 ### React
 
