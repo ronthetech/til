@@ -72,6 +72,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](linux/#.md)
 * [How to Check Ubuntu Info](linux/check-ubuntu-info.md)
+* [How to Lookup a Command in the Manual](linux/lookup-a-command-in-the-manual.md)
 
 ### MongoDB
 
