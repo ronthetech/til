@@ -21,3 +21,4 @@ print(new_message)
 ```
 
 [example](./examples/string-replace-method.py)
+[link](https://docs.python.org/3/library/stdtypes.html#str.replace)
