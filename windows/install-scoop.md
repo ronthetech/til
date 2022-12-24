@@ -19,3 +19,5 @@ You can verify the installation was successful and view instructions for `scoop`
 ```
 
 You can check out my [blog post](https://www.ronjeanfrancois.com/blog/how-to-install-scoop-on-windows) where I go through the process.
+
+[link](https://scoop.sh/)
