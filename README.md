@@ -135,6 +135,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### Windows
 
 * [](windows/#.md)
+* [How to install Scoop](windows/install-scoop.md)
 
 ---
 
