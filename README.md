@@ -71,6 +71,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### Linux
 
 * [](linux/#.md)
+* [How to Check Ubuntu Info](linux/check-ubuntu-info.md)
 
 ### MongoDB
 
