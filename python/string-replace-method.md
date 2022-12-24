@@ -15,6 +15,7 @@ print(new_message)
 
 ```python
 message = "Where can you find what you need to finish the project that you just started."
+#  count is 2, so first 2 occurrences will be replaced
 new_message = message.replace("you", "I", 2)  
 print(new_message)
 #  Where can I find what I need to finish the project that you just started.
