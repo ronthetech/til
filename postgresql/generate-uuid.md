@@ -7,3 +7,5 @@ In PostgreSQL you may find that you need a uuid for some reason, maybe an exampl
 ```sql
 select gen_random_uuid()
 ```
+
+[link](https://www.postgresql.org/docs/current/functions-uuid.html)
