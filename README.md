@@ -98,6 +98,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](postgresql/#.md)
 * [How to Check Inequality](postgresql/check-inequality.md)
+* [How to Generate a Random UUID](postgresql/generate-uuid.md)
 * [Count How Many Records Are In Each Category](postgresql/count-how-many-records-in-each-category.md)
 
 ### Python
