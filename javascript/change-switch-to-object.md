@@ -47,6 +47,19 @@ let answer = "";
 }
 ```
 
+The object below will return the same results as the one above:
+
+```js
+function whoPlaysWhere(val) {
+  return {
+    "Steph Curry" : "Golden State Warriors",
+    "LeBron James" : "Los Angeles Lakers",
+    "Kevin Durant" : "Brooklyn Nets",
+    "Giannis Antetokounmpo" : "Milwaukee Bucks",
+  }[val];
+}
+```
+
 [link]()
 [link - switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 [link - object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
