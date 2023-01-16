@@ -60,6 +60,6 @@ function whoPlaysWhereObject(val) {
 }
 ```
 
-[link]()
+[example](/javascript/change-switch-to-object.js)
 [link - switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 [link - object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
