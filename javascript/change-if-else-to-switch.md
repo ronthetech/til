@@ -8,7 +8,7 @@ The function below is an if-else statement:
 
 ```js
 function chainToSwitch(val){
-  var answer = "";
+  let answer = "";
   
   if (val === "hip hip") {
     answer = "hooray!"
