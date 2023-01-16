@@ -9,6 +9,7 @@ The function below is an if-else statement:
 ```js
 function chainToSwitch(val){
   var answer = "";
+  
   if (val === "hip hip") {
     answer = "hooray!"
   } else if (val === 7) {
@@ -24,19 +25,25 @@ function chainToSwitch(val){
 The function below is a switch statement:
 
 ```js
-switch (val) {
-  case 'hip hip':
-    answer = "hooray!";
-    break;
-  case 7:
-    answer = "Ate 9";
-    break;
-  case "Michael":
-    answer = "Jackson"
-    break;
-  default :
-    answer = "Not this time!"
-    break;
+function chainToSwitch(val){
+  let answer = "";
+  
+  switch (val) {
+    case "hip hip":
+      answer = "hooray!";
+      break;
+    case 7:
+      answer = "Ate 9";
+      break;
+    case "Michael":
+      answer = "Jackson"
+      break;
+    default :
+      answer = "Not this time!"
+      break;
+  }
+  
+  return answer;
 }
 ```
 
