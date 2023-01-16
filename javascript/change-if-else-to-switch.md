@@ -19,13 +19,15 @@ function chainToSwitch(val){
   } else {
     answer = "Not this time!"
   }
+  
+  return answer;
 }
 ```
 
 The function below is a switch statement:
 
 ```js
-function chainToSwitch(val){
+function switchedChain(val){
   let answer = "";
   
   switch (val) {
