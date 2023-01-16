@@ -7,6 +7,7 @@ A collection/compilation of compact guides on the things I pick up throughout my
 To read more of my writing about programming and technology, [check out my blog](https://ronjeanfrancois.com/blog).
 
 <!-- banner/hero goes here -->
+![Pink Sunset](https://ronthetech.github.io/image-repo/banners/pink-sunset.jpg)
 
 ---
 
