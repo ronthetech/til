@@ -12,35 +12,35 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### Topics
 
-* [Bash](#bash)
+<!-- * [Bash](#bash)
 * [CSS](#css)
 * [Git](#git)
-* [Go](#go)
+* [Go](#go) -->
 * [JavaScript](#javascript)
 * [Linux](#linux)
-* [MongoDB](#mongodb)
+<!-- * [MongoDB](#mongodb)
 * [Next.js](#nextjs)
 * [npm](#npm)
 * [PlanetScale](#planetscale)
-* [pnpm](#pnpm)
+* [pnpm](#pnpm) -->
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [React](#react)
-* [Shell](#shell)
-* [TailwindCSS](#tailwindcss)
+<!-- * [Shell](#shell)
+* [TailwindCSS](#tailwindcss) -->
 * [TypeScript](#typescript)
-* [VSCode](#vscode)
+<!-- * [VSCode](#vscode) -->
 * [Windows](#windows)
 
 ---
 
-### Bash
+<!-- ### Bash
 
 * [](bash/#.md)
 
 ### CSS
 
-* [](css/#.md)
+* [](css/#.md) -->
 
 ### Git
 
@@ -54,9 +54,9 @@ To read more of my writing about programming and technology, [check out my blog]
 * [How to Rename a Branch](git/rename-a-branch.md)
 * [How to Rename a Remote](git/rename-a-remote.md)
 
-### Go
+<!-- ### Go
 
-* [](go/#.md)
+* [](go/#.md) -->
 
 ### JavaScript
 
@@ -76,7 +76,7 @@ To read more of my writing about programming and technology, [check out my blog]
 * [How to Check Ubuntu Info](linux/check-ubuntu-info.md)
 * [How to Lookup a Command in the Manual](linux/lookup-a-command-in-the-manual.md)
 
-### MongoDB
+<!-- ### MongoDB
 
 * [](mongodb/#.md)
 
@@ -94,7 +94,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### pnpm
 
-* [](pnpm/#.md)
+* [](pnpm/#.md) -->
 
 ### PostgreSQL
 
@@ -116,13 +116,13 @@ To read more of my writing about programming and technology, [check out my blog]
 * [How to use React Hook useContext](react/hooks/use-context.md)
 * [How to use React Hook useState With an Updater Function](react/hooks/use-state-with-updater-function.md)
 
-### Shell
+<!-- ### Shell
 
 * [](shell/#.md)
 
 ### TailwindCSS
 
-* [](tailwindcss/#.md)
+* [](tailwindcss/#.md) -->
 
 ### TypeScript
 
@@ -131,9 +131,9 @@ To read more of my writing about programming and technology, [check out my blog]
 * [How to Extend an Interface](typescript/how-to-extend-an-interface.md)
 * [How to Type a Function in an Interface](typescript/how-to-type-a-function-in-an-interface.md)
 
-### VSCode
+<!-- ### VSCode
 
-* [](vscode/#.md)
+* [](vscode/#.md) -->
 
 ### Windows
 
