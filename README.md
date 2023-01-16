@@ -62,6 +62,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 * [](javascript/#.md)
 * [How to Change an If-Else Statement to a Switch Statement](javascript/change-if-else-to-switch.md)
+* [How to Change a Switch Statement to an Object](javascript/change-switch-to-object.md)
 * [How to Get the Full Year](javascript/date-methods/get-the-full-year.md)
 * [How to Use the Filter Method](javascript/array-methods/filter-method.md)
 * [How to Use the ForEach Method](javascript/array-methods/foreach-method.md)
