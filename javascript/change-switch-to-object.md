@@ -50,7 +50,7 @@ let answer = "";
 The object below will return the same results as the one above:
 
 ```js
-function whoPlaysWhere(val) {
+function whoPlaysWhereObject(val) {
   return {
     "Steph Curry" : "Golden State Warriors",
     "LeBron James" : "Los Angeles Lakers",
