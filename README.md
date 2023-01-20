@@ -13,10 +13,10 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### Topics
 
-<!-- * [Bash](#bash)
-* [CSS](#css)
+<!-- * [Bash](#bash) -->
+<!-- * [CSS](#css) -->
 * [Git](#git)
-* [Go](#go) -->
+<!-- * [Go](#go) -->
 * [JavaScript](#javascript)
 * [Linux](#linux)
 <!-- * [MongoDB](#mongodb)
@@ -46,6 +46,7 @@ To read more of my writing about programming and technology, [check out my blog]
 ### Git
 
 <!-- * [](git/#.md) -->
+* [How to Add a New Branch and Push to A Remote](git/add-new-branch-and-push.md)
 * [How to Add a Remote](git/add-a-remote.md)
 * [How to Checkout Previous Branch](git/checkout-previous-branch.md)
 * [How to Clone a Repository](git/clone-a-repo.md)
