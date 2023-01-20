@@ -147,7 +147,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ## About
 
-I was inspired to develop this idea by [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
+I was inspired by [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## License
 
