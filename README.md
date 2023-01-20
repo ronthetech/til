@@ -45,7 +45,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### Git
 
-* [](git/#.md)
+<!-- * [](git/#.md) -->
 * [How to Add a Remote](git/add-a-remote.md)
 * [How to Checkout Previous Branch](git/checkout-previous-branch.md)
 * [How to Clone a Repository](git/clone-a-repo.md)
@@ -61,7 +61,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### JavaScript
 
-* [](javascript/#.md)
+<!-- * [](javascript/#.md) -->
 * [How to Change an If-Else Statement to a Switch Statement](javascript/change-if-else-to-switch.md)
 * [How to Change a Switch Statement to an Object](javascript/change-switch-to-object.md)
 * [How to Get the Full Year](javascript/date-methods/get-the-full-year.md)
@@ -73,7 +73,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### Linux
 
-* [](linux/#.md)
+<!-- * [](linux/#.md) -->
 * [How to Check Ubuntu Info](linux/check-ubuntu-info.md)
 * [How to Lookup a Command in the Manual](linux/lookup-a-command-in-the-manual.md)
 
@@ -99,21 +99,21 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### PostgreSQL
 
-* [](postgresql/#.md)
+<!-- * [](postgresql/#.md) -->
 * [How to Check Inequality](postgresql/check-inequality.md)
 * [How to Generate a Random UUID](postgresql/generate-uuid.md)
 * [Count How Many Records Are In Each Category](postgresql/count-how-many-records-in-each-category.md)
 
 ### Python
 
-* [](python/#.md)
+<!-- * [](python/#.md) -->
 * [How to Use the String Format Method](python/string-format-method.md)
 * [How to Use the String Replace Method](python/string-replace-method.md)
 * [How to Use Formatted String Literals](python/formatted-string-literal.md)
 
 ### React
 
-* [](react/#.md)
+<!-- * [](react/#.md) -->
 * [How to use React Hook useContext](react/hooks/use-context.md)
 * [How to use React Hook useState With an Updater Function](react/hooks/use-state-with-updater-function.md)
 
@@ -127,7 +127,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### TypeScript
 
-* [](typescript/#.md)
+<!-- * [](typescript/#.md) -->
 * [How to Alias a Type](typescript/how-to-alias-a-type.md)
 * [How to Extend an Interface](typescript/how-to-extend-an-interface.md)
 * [How to Type a Function in an Interface](typescript/how-to-type-a-function-in-an-interface.md)
@@ -138,7 +138,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 ### Windows
 
-* [](windows/#.md)
+<!-- * [](windows/#.md) -->
 * [How to install Scoop](windows/install-scoop.md)
 
 ---
