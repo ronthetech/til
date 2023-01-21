@@ -47,6 +47,7 @@ To read more of my writing about programming and technology, [check out my blog]
 
 <!-- * [](git/#.md) -->
 * [How to Add a New Branch and Push to A Remote](git/add-new-branch-and-push.md)
+* [How to Add a New Branch and Checkout](git/add-new-branch-and-checkout.md)
 * [How to Add a New Branch and Switch to It](git/add-new-branch-and-switch.md)
 * [How to Add a Remote](git/add-a-remote.md)
 * [How to Checkout Previous Branch](git/checkout-previous-branch.md)
