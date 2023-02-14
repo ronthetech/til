@@ -11,6 +11,7 @@ const total = points.reduce((x,y) => x + y)
 
 console.log(total)
 
+/// 207
 ```
 
 [example](./reduce-method-example.js)
