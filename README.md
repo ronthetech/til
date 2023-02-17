@@ -154,7 +154,7 @@ I was inspired by [thoughtbot/til](https://github.com/thoughtbot/til) and [jbran
 
 ## License
 
-&copy; 2018-2022 Ron Jean-Francois
+&copy; 2018-2023 Ron Jean-Francois
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
