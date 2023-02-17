@@ -37,7 +37,7 @@ function Page() {
 }
 ```
 
-[codesandbox](https://codesandbox.io/p/sandbox/usecontext-i7inmj)
+<!-- [codesandbox](https://codesandbox.io/p/sandbox/usecontext-i7inmj) -->
 [example](./examples/use-context.js)
 [link](https://reactjs.org/docs/hooks-reference.html#usecontext)
 [link](https://beta.reactjs.org/apis/react/useContext)
