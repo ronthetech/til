@@ -4,7 +4,7 @@
 If you ever need to clear the DNS cache on a machine for any reason, like for instance if it has been poisoned, or to refresh the outdated entries, you can achieve this from the command line. 
 Enter the following command:
 ```
-C:\Users\YOUR_MACHINE>ipconfig /displaydns
+C:\Users\YOUR_MACHINE>ipconfig /flushdns
 ```
 
 The output should look something like this:
