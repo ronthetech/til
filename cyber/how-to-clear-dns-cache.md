@@ -5,9 +5,11 @@ If you ever need to clear the DNS cache on a machine for any reason, like for in
 Enter the following command:
 ```
 C:\Users\YOUR_MACHINE>ipconfig /displaydns
+```
 
+The output should look something like this:
+```
 Windows IP Configuration
-
 Successfully flushed the DNS Resolver Cache.
 ```
 Based on the output, we know that the DNS Cache has been succesfully cleared.
